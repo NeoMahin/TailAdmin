@@ -1,0 +1,36 @@
+{
+    "id": 12345,
+    "username": "johndoe",
+    "email": "johndoe@example.com",
+    "fullName": "John Doe",
+    "age": 30,
+
+    "location": {
+        "city": "New York",
+        "state": "NY",
+        "country": "USA"
+    },
+
+    "preferences": {
+        "theme": "dark",
+        "notifications": {
+            "email": true,
+            "sms": false
+        }
+    },
+    
+    "friends": [
+        {
+            "id": 67890,
+            "username": "janesmith",
+            "fullName": "Jane Smith"
+        },
+        {
+            "id": 54321,
+            "username": "mikejohnson",
+            "fullName": "Mike Johnson"
+        }
+    ],
+    "isOnline": true,
+    "lastLogin": "2024-08-19T14:48:00Z"
+}
